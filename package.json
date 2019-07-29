@@ -27,6 +27,7 @@
     "@types/joi": "^14.3.3",
     "@types/node": "^12.6.8",
     "express": "^4.17.1",
+    "joi": "^14.3.1",
     "nodemon": "^1.19.1",
     "ts-node": "^8.3.0",
     "typescript": "^3.5.3"
