@@ -1,0 +1,23 @@
+{
+  "name": "backend-micro-code-challenge",
+  "version": "1.0.0",
+  "description": "The repository for the back-end code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kicekream/backend-micro-code-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kicekream/backend-micro-code-challenge/issues"
+  },
+  "homepage": "https://github.com/kicekream/backend-micro-code-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
